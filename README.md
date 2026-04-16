@@ -1,7 +1,7 @@
 # Taller_Poo_de_Lesther_Galeano
 Presentacion del problema propuesto sobre un sistema de gestion de torneos de UAM-Sports
 
-#  Sistema de Gestión de Torneos de E-Sports
+#  Sistema de Gestión de Torneos de UAM E-Sports
 
 ##  Descripción
 Sistema para organizar torneos competitivos de videojuegos. Gestiona equipos, jugadores, partidas y premios.
